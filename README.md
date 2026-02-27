@@ -7,73 +7,25 @@ https://raw.githubusercontent.com/devho3ein/tg-proxy/refs/heads/main/proxys/All_
 ## Best proxies
 
 ```
-https://t.me/proxy?server=pasta.fetocini.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0=
+https://t.me/proxy?server=185.231.154.244&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=91.99.80.144&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
+https://t.me/proxy?server=78.47.24.137&port=155&secret=eecBAgABAAfwAwOG4kw63Q
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=freeproxy.darinaservice-free.store&port=443&secret=8ca401ec8fd13bf3c84817cd9cb3f558
+https://t.me/proxy?server=tee.mobemouy.com&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=188.212.98.40&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-```
-
----
-
-```
-https://t.me/proxy?server=www.porteghall.site.&port=8443&secret=dd79e7010200010007f0030386e24c3add
-```
-
----
-
-```
-https://t.me/proxy?server=91.107.155.175&port=2053&secret=dd24080aaebdec954f4e0337c6e20fde3e
-```
-
----
-
-```
-https://t.me/proxy?server=108.181.123.61&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
-```
-
----
-
-```
-https://t.me/proxy?server=90.156.213.122&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949
-```
-
----
-
-```
-https://t.me/proxy?server=62.60.179.227&port=9880&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
-```
-
----
-
-```
-https://t.me/proxy?server=195.254.165.213&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D
-```
-
----
-
-```
-https://t.me/proxy?server=142.132.185.118&port=443&secret=ee008c3f6a9321de531462b058247cfd18676174657761792e696e7374616772616d2e636f6d
-```
-
----
-
-```
-https://t.me/proxy?server=91.99.106.172&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
+https://t.me/proxy?server=195.18.10.202&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t
 ```
 
 ---
@@ -85,43 +37,91 @@ https://t.me/proxy?server=157.180.80.64&port=8888&secret=1603010200010001fc03038
 ---
 
 ```
-https://t.me/proxy?server=62.60.185.104&port=2053&secret=dd3a970f5426860a5e83ce1a42680d40c7
+https://t.me/proxy?server=happy.birthday.qavivqodrati.ir&port=48173&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNp
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=87.248.149.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=195.254.165.18&port=65535&secret=10446282fffffffffff80000fff80000
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=195.254.165.110&port=66666&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=195.254.165.96&port=65535&secret=10446282fff6fffffff80000fff80000
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=87.248.149.131&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=64.176.18.31&port=443&secret=dd4b6cb02db7d8351426e8b66a93769add
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=ir.vpnproxy.cc&port=9443&secret=dd44b44bae444c2b1036a57ad36c0c356b
+https://t.me/proxy?server=89.44.241.54&port=443&secret=a328d6abe18613992492e8cf7d96ac6e
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=85.133.194.100&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=65.109.146.207&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=185.215.247.110&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
+https://t.me/proxy?server=pro-px.gamemovi.com&port=443&secret=ddbf855c4e9f1bfd3b8659972b76dd8ee3
+```
+
+---
+
+```
+https://t.me/proxy?server=163.5.31.220&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t
+```
+
+---
+
+```
+https://t.me/proxy?server=205.237.105.173&port=85000&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D
+```
+
+---
+
+```
+https://t.me/proxy?server=91.238.92.247&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t
+```
+
+---
+
+```
+https://t.me/proxy?server=216.238.108.188&port=443&secret=ddfa6da24cd175647c405e094a1f522573
+```
+
+---
+
+```
+https://t.me/proxy?server=185.3.200.40&port=4455&secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d
+```
+
+---
+
+```
+https://t.me/proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==
+```
+
+---
+
+```
+https://t.me/proxy?server=New-p.new-visioncity.ir.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
+```
+
+---
+
+```
+https://t.me/proxy?server=android.gq.the-bests-servers.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0
 ```
 
 ---
